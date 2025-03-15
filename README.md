@@ -60,7 +60,7 @@ June: $554M revenue
 July: $573M revenue
 
 May had the highest revenue, while June saw a slight drop.
-
+ 
 
 🏷️ Revenue by Customer Class
 
