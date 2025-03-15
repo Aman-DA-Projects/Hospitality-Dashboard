@@ -8,27 +8,7 @@ Here are the key insights from your Hospitality Analysis Dashboard:
 
 
 Report Analytics & DashboardAnalytics for Stake-Holders ![image](https://github.com/user-attachments/assets/2e19b860-c852-4b12-89af-757edb4c8e73)]
-o Total Revenue
 
-o Occupancy 
-
-o Cancellation Rate
-
-o Total Booking
-
-o Utilize capacity 
-
-o Trend Analysis 
-
-o Weekday  & Weekend  Revenue and Booking
-
-o Revenue by State & hotel
-
-o Class Wise Revenue
-
-o Checked out cancel No show
-
-o Weekly trend Key trend (Revenue, Total booking, Occupancy) 
 
 ![image](https://github.com/user-attachments/assets/ba345751-f9c7-4f48-8805-100febebb921)
 
