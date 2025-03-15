@@ -13,6 +13,9 @@ Report Analytics & DashboardAnalytics for Stake-Holders ![image](https://github
 ![image](https://github.com/user-attachments/assets/ba345751-f9c7-4f48-8805-100febebb921)
 
 
+![Screenshot (308)](https://github.com/user-attachments/assets/9881884b-5139-4712-8932-567f0d97a544)
+
+
 ---
 
 Key Insights from the Hospitality Dashboard
