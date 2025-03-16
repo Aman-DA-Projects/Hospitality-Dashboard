@@ -59,75 +59,75 @@ This Hospitality Analysis Dashboard provides a comprehensive view of hotel perfo
 # Insights
 
 
-1. Revenue and Bookings Overview
+# Revenue and Bookings Overview
 
-Total Revenue: 1709M
+    Total Revenue: 1709M
 
-Total Bookings: 135K
+    Total Bookings: 135K
 
-Utilized Capacity: 233K
+    Utilized Capacity: 233K
 
-Occupancy Rate: 57.9%
+    Occupancy Rate: 57.9%
 
-Cancellation Rate: 25% (which indicates a significant portion of bookings are being canceled).
+    Cancellation Rate: 25% (which indicates a significant portion of bookings are being canceled).
 
-2. Revenue by State & Hotel Type
+#  Revenue by State & Hotel Type
 
-Mumbai, Bangalore, Hyderabad, and Delhi are contributing to revenue.
+    Mumbai, Bangalore, Hyderabad, and Delhi are contributing to revenue.
 
-Business and Luxury hotel categories dominate revenue generation.
+    Business and Luxury hotel categories dominate revenue generation.
 
-Highest business revenue: 270M (one of the highest revenue-generating hotel types).
+    Highest business revenue: 270M (one of the highest revenue-generating hotel types).
 
-3. Revenue by Class of Stay
+ # Revenue by Class of Stay
 
-Elite Class: 560M (highest revenue contributor).
+    Elite Class: 560M (highest revenue contributor).
 
-Premium Class: 462M.
+    Premium Class: 462M.
 
-Presidential Class: 377M.
+    Presidential Class: 377M.
 
-Standard Class: 310M.
+    Standard Class: 310M.
 
-High-end classes (Elite & Premium) contribute the most revenue, indicating a focus on luxury guests.
+    High-end classes (Elite & Premium) contribute the most revenue, indicating a focus on luxury guests.
 
-4. Weekly Revenue & Booking Trends
+ # Weekly Revenue & Booking Trends
 
-Weekday bookings: 84K, generating nearly 1B in revenue.
+    Weekday bookings: 84K, generating nearly 1B in revenue.
 
-Weekend bookings: lower than weekday bookings, but revenue is still significant.
+    Weekend bookings: lower than weekday bookings, but revenue is still significant.
 
-This suggests business travelers contribute more on weekdays.
+    This suggests business travelers contribute more on weekdays.
 
-5. Checked Out vs. Cancellations & No-Shows
+# Checked Out vs. Cancellations & No-Shows
 
-Total checked out: 33,420.
+    Total checked out: 33,420.
 
-Total cancellations & no-shows: 94,411.
+    Total cancellations & no-shows: 94,411.
 
-The high number of cancellations and no-shows indicates a need to optimize the booking and cancellation policy.
+    The high number of cancellations and no-shows indicates a need to optimize the booking and cancellation policy.
 
-6. Monthly Trend Analysis
+# Monthly Trend Analysis
 
-May: 581M revenue.
+    May: 581M revenue.
 
-June: 554M revenue.
+    June: 554M revenue.
 
-July: 573M revenue.
+    July: 573M revenue.
 
-Revenue remains consistent across months, showing stable demand.
+    Revenue remains consistent across months, showing stable demand.
 
-Key Takeaways & Recommendations:
+# Key Takeaways & Recommendations:
 
-✔ Business & Luxury hotels drive the most revenue.
+    ✔ Business & Luxury hotels drive the most revenue.
 
-✔ Elite & Premium class bookings contribute the highest revenue.
+    ✔ Elite & Premium class bookings contribute the highest revenue.
 
-✔ Weekday bookings are higher, likely due to business travelers.
+    ✔ Weekday bookings are higher, likely due to business travelers.
 
-✔ High cancellation rates (25%) suggest the need for stricter policies or better incentives for confirmed bookings.
+    ✔ High cancellation rates (25%) suggest the need for stricter policies or better incentives for confirmed bookings.
 
-✔ Revenue stability across months, but further seasonal analysis could help optimize pricing strategies.
+    ✔ Revenue stability across months, but further seasonal analysis could help optimize pricing strategies.
 
 
 ![Screenshot (308)](https://github.com/user-attachments/assets/9881884b-5139-4712-8932-567f0d97a544)
