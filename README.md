@@ -3,12 +3,19 @@
 # Table of contents
 
 o Project overview
+
 o Data source
+
 o Tools
+
 o Data preparation 
+
 o Exploratory Data analysis
+
 o Insights
+
 o Recomendation
+
 o Dashboard
 
 📌 Project Overview
@@ -16,25 +23,33 @@ o Dashboard
 This Hospitality Analysis Dashboard provides a comprehensive view of hotel performance, focusing on revenue, bookings, occupancy rates, and cancellation rates and utilize capacity. The analysis helps stakeholders to improve efficiency and profitability in the hospitality sector.
 
 # Data source
-Hotel data: The data set used for this analysis is the 'Hospitality_Analysis_data.xlsx". 
+
+   Hotel data: The data set used for this analysis is the 'Hospitality_Analysis_data.xlsx". 
 
 # Tools 
+
    o Excel - Data cleaning
+   
    o MySQL - Creating dashboards, data visualization and reports
 
 # Data Preparation
 
    In the initial data preparation phase,we performed the following tasks:
+   
       1. Data loading and inspection.
+      
       2. Handling missing values.
+      
       3. Data cleaning and formatting.
+      
       4. Create a measures and calculated dax formula.
      
 
 # Exploratory Data Analysis
 
-  EDA involves exploring the hotel data to answe key questions, such as
-Report Analytics & Dashboard Analytics for Stake-Holders ![image](https://github.com/user-attachments/assets/2e19b860-c852-4b12-89af-757edb4c8e73)]
+  EDA involves exploring the hotel data to answe key questions, such asReport Analytics & Dashboard Analytics for Stake-Holders 
+
+![image](https://github.com/user-attachments/assets/2e19b860-c852-4b12-89af-757edb4c8e73)]
 
 
 ![image](https://github.com/user-attachments/assets/ba345751-f9c7-4f48-8805-100febebb921)
