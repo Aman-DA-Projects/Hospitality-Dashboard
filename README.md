@@ -8,9 +8,9 @@ o Data source
 
 o Tools
 
-o Data preparation 
-
 o Exploratory Data analysis
+
+o Data preparation 
 
 o Insights
 
@@ -32,6 +32,19 @@ This Hospitality Analysis Dashboard provides a comprehensive view of hotel perfo
    
    o MySQL - Creating dashboards, data visualization and reports
 
+
+
+# Exploratory Data Analysis
+
+  EDA involves exploring the hotel data to answe key questions, such asReport Analytics & Dashboard Analytics for Stake-Holders 
+
+![image](https://github.com/user-attachments/assets/2e19b860-c852-4b12-89af-757edb4c8e73)]
+
+
+![image](https://github.com/user-attachments/assets/ba345751-f9c7-4f48-8805-100febebb921)
+
+
+
 # Data Preparation
 
    In the initial data preparation phase,we performed the following tasks:
@@ -43,16 +56,7 @@ This Hospitality Analysis Dashboard provides a comprehensive view of hotel perfo
       3. Data cleaning and formatting.
       
       4. Create a measures and calculated dax formula.
-     
 
-# Exploratory Data Analysis
-
-  EDA involves exploring the hotel data to answe key questions, such asReport Analytics & Dashboard Analytics for Stake-Holders 
-
-![image](https://github.com/user-attachments/assets/2e19b860-c852-4b12-89af-757edb4c8e73)]
-
-
-![image](https://github.com/user-attachments/assets/ba345751-f9c7-4f48-8805-100febebb921)
 
 
 
@@ -129,5 +133,5 @@ This Hospitality Analysis Dashboard provides a comprehensive view of hotel perfo
 
     ✔ Revenue stability across months, but further seasonal analysis could help optimize pricing strategies.
 
+![Screenshot (314)](https://github.com/user-attachments/assets/d97fdf89-9523-4613-aa54-56154bf7fa04)
 
-![Screenshot (308)](https://github.com/user-attachments/assets/9881884b-5139-4712-8932-567f0d97a544)
